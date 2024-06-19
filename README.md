@@ -1,6 +1,5 @@
 # pacmen
-## exercise that show several packmen moving
-
-When you click the button start you create a packman, and when you click the button move, it starts moving. You can create several packmen.
+## Exercise: In this exercise you have two buttons "Add PackMan" and "Start Game". When you click the button "Add PackMan", a new packman will appear in the website. When you click the button "Start Game" the packman will move to a random direction with a random speed. You can add several packmen in a similar way.
+#### Roadman of future improvements: I would like to use a similar code with other type of figures (such as balls, frogs, rabits...) and not only packmen
 
 <img src="PacMan1.png">
