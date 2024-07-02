@@ -3,4 +3,4 @@
 #### Roadman of future improvements: I would like to use a similar code with other type of figures (such as balls, frogs, rabits...) and not only packmen
 ##### License: This exercise may be linked to a MIT license.
 
-<img src="pacman1.png">
+<img src="images/pacman1.png">
